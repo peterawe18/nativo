@@ -3,7 +3,8 @@
   text-align: center;
   color: #08000E;
   font-family: Georgia, serif;
-  font-size:4em;
+  font: size 4;
+  font-style: italic;
 }
 
 #button-container
